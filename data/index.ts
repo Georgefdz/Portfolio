@@ -97,11 +97,11 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+      title: "Habit Tracker",
+      des: "A habit tracker app built with React.js to keep track of your habits.",
       img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      iconLists: ["/react.svg", "/css.svg", "/express.svg", "/fm.svg"],
+      link: "https://github.com/Georgefdz/HabitTracker",
     },
   ];
   
