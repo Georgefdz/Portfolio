@@ -90,7 +90,7 @@ export const navItems = [
     {
       id: 3,
       title: "Torre Franklin",
-      des: "A website for a big development company in Mexico",
+      des: "A website for a big development company in Mexico.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/css.svg", "/js.svg", "/fm.svg"],
       link: "https://torrefranklin2.w3spaces.com/",
@@ -100,7 +100,7 @@ export const navItems = [
       title: "Habit Tracker",
       des: "A habit tracker app built with React.js to keep track of your habits.",
       img: "/p4.svg",
-      iconLists: ["/react.svg", "/css.svg", "/express.svg", "/fm.svg"],
+      iconLists: ["/re.svg", "/css.svg", "/express.svg", "/fm.svg"],
       link: "https://github.com/Georgefdz/HabitTracker",
     },
   ];
