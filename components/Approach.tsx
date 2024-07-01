@@ -13,14 +13,14 @@ const Approach = () => {
         </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card title="Planning & Strategy" icon={<AceternityIcon order="Phase 1" />}
-        description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements.">
+        description="We'll work together to define your website's goals, target audience, and essential features. Our discussion will cover site structure, navigation, and content needs.">
           <CanvasRevealEffect
             animationSpeed={5.1}
             containerClassName="bg-emerald-900"
           />
         </Card>
         <Card title="Development & Progress Update" icon={<AceternityIcon order="Phase 2"/>}
-        description="Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial ssketches to polished code, I keep you updated every step of the way.">
+        description="With a solid plan in place, I'll begin coding. From initial sketches to refined code, I'll keep you informed throughout the process.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -33,7 +33,7 @@ const Approach = () => {
 
         </Card>
         <Card title="Development & Launch" icon={<AceternityIcon order="Phase 3"/>}
-        description="This is where the magic happens! Based on the approved design, I'll translate everything into functional code, building your website from the ground up.">
+        description="This is where your vision comes to life! Using the approved design, I'll develop your website from the ground up, ensuring a seamless and functional final product.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-sky-600"

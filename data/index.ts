@@ -73,27 +73,27 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+      title: "Educational Platform - Typing Titans",
+      des: "Learn how to touch type in an effective and fun way.",
       img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      iconLists: ["/re.svg", "/websocket.svg", "/ts.svg", "/fm.svg", "/postgresql.svg", "/express.svg", "/redux.svg"],
+      link: "https://typing-titans.vercel.app/",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      title: "Budget Pal - Expense Tracker App",
+      des: "Manage and keep track of your expenses with ease.",
       img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      iconLists: ["/re.svg", "/css.svg", "/chartjs.svg", "/postgresql.svg", "/express.svg"],
+      link: "https://budget-6epn1l3yk-georgefdzs-projects.vercel.app/",
     },
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+      title: "Torre Franklin",
+      des: "A website for a big development company in Mexico",
       img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      iconLists: ["/re.svg", "/css.svg", "/js.svg", "/fm.svg"],
+      link: "https://torrefranklin2.w3spaces.com/",
     },
     {
       id: 4,
@@ -174,31 +174,31 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
+      title: "Frontend Developer",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Backend Developer",
+      desc: "Specialized in building and maintaining server-side logic and integrations.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
+      thumbnail: "/exp4.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      title: "Freelance Web Dev Project",
+      desc: "Led the development of a website for a client, overseeing the entire project lifecycle from initial concept to deployment.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Netsuite Developer",
+      desc: "Specialized in customizations and integrations to optimize ERP solutions.",
       className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
+      thumbnail: "/exp2.svg",
     },
   ];
   
